@@ -5,6 +5,6 @@ The dataset files are available on this link: https://tinyurl.com/bdd487z2 (they
 
 Other files regarding the instructions and resources for the Team Assignment can be found in this repository.
 
-We will use the predefined notebooks for each of the steps [1), 2), 3)...] where we will share the code. Of course feel free to create other Notebooks were you can work on different tasks to your liking, althogh the final working code should be commited through the numbered notebooks.
+We will use the predefined notebooks for each of the steps [1), 2), 3)...] where we will share the code. Of course feel free to create other Notebooks were you can work on different tasks to your liking, although the final working code should be commited through the numbered notebooks.
 
-Disclaimer: I have never used git nor have I have ever programmed anything prior to the Erasmus exchange, therefore any feedback (positive or negative) is welcome either through the Whatsapp group or here on git.hub 
+Disclaimer: I have never used git nor have I ever programmed anything prior to the Erasmus exchange, therefore any feedback (positive or negative) is welcome either through the Whatsapp group or here on git.hub 
