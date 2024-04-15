@@ -1,5 +1,5 @@
 # Team-Project-DSML
-This is a The Feature Engineers repository used for sharing of all the files that we use in the Team Project Assignment in the subject DSML. 
+This is a The Feature Engineers repository used for sharing of all the files that we use in the Team Project Assignment in the subject Data Science and Machine Learning on University of Cologne.
 
 The dataset files are available on this link: https://uni-koeln.sciebo.de/s/ZOdCfXORDTeGnlF (they are too big for git -> you have to add them to your folder to which you have cloned this repository)
 
